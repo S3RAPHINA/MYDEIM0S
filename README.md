@@ -1,2 +1,2 @@
 <p align="center">
-  ![Image](https://github.com/user-attachments/assets/9b9027d7-96ec-4033-81f7-2e6aad9b07bb)
+![Image](https://github.com/user-attachments/assets/2d163fce-3a03-4b64-b4d4-858651b277c0)
