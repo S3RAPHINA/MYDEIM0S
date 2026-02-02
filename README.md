@@ -8,4 +8,4 @@
 
 
 <p align="center">
-<a href="https://(https://rentry.co/birdyyy)" target="_blank">rentry</a>
+<a href="https://rentry.co/birdyyy" target="_blank">rentry</a>
